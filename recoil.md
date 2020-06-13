@@ -43,7 +43,7 @@ I start my spray at this point :
 
 #### 5.56 ARs
 
-- I knew something was off with the m16a4, ad this is "tapping", but boy, this shoots all over the place !
+- I knew something was off with the m16a4, and this is "tapping", but boy, this shoots all over the place !
 - I had noticed the QBZ felt a bit harder to handle, as you can see it has more horizontal recoil
 
 ![](spray/aug.PNG) ![](spray/m16a4.PNG) ![](spray/m416.PNG) ![](spray/qbz.PNG) ![](spray/scar.PNG)
@@ -51,22 +51,22 @@ I start my spray at this point :
 #### 7.72 ARs
 
 - As everone knows the AKM and berryl have very high vertical recoil, but as you can see the first 5 bullets are pretty god and that is enough to kill someone
-- The Groza is any harder to handle than the 5.56 AR, yet does a lot more damage, use it !
+- The Groza is not any harder to handle than the 5.56 AR, yet does a lot more damage, use it !
 - As far as burst weapons go, The mutant seems way more accurate than the M16A4
 
 ![](spray/akm.PNG) ![](spray/groza.PNG) ![](spray/m762.PNG) ![](spray/mutant.PNG)
 
 #### LMGs
 
-- The DP28 is any harder to handle than the 5.56 AR, yet does a lot more damage, use it !
-- The M249 as a crazy pattern, keep in minf it's 50 bullets and meant to spray but that left recoil is crazy
+- The DP28 is any not harder to handle than the 5.56 AR, yet does a lot more damage, use it !
+- The M249 has a crazy pattern, keep in mind it's 50 bullets though, and meant to spray, but that left recoil is wild
 
 ![](spray/m249.PNG) ![](spray/dp28.PNG)
 
 #### DMRs
 
-- The Mini15 and QBU have very low recoil, especially horizontal, making them easy to use
-- The SKS seems to have a strong left recoil, maybe that'swy I can't land multiple shots with it
+- The Mini15 and QBU have fairly low recoil, especially horizontal, making them easy to use
+- The SKS seems to have a weird strong left recoil, maybe that's why I can't land multiple shots with it
 - The VSS s not a real DMR, but look at this beautiful grouping !
 
 ![](spray/mini14.PNG) ![](spray/qbu.PNG) ![](spray/sks.PNG) ![](spray/slr.PNG) ![](spray/vss.PNG)
@@ -90,6 +90,6 @@ Standing by the attachments tables, taking a single shot, using a 6x when possib
 
 Observations:
 
-- SLR, SKS and MK124 have very though single shot recoils (both vertical and horizontal and a lot)
+- The SLR, SKS and MK124 have very though single shot recoils (both vertical and horizontal and a lot)
 
 ![](singleshot/aug.PNG) ![](singleshot/awm.PNG) ![](singleshot/dp28.PNG) ![](singleshot/kar98.PNG) ![](singleshot/m16a4.PNG) ![](singleshot/m24.PNG) ![](singleshot/m249.PNG) ![](singleshot/m416.PNG) ![](singleshot/m762.PNG) ![](singleshot/mini14.PNG) ![](singleshot/mk14.PNG) ![](singleshot/mutant.PNG) ![](singleshot/qbu.PNG) ![](singleshot/scar.PNG) ![](singleshot/sqs.PNG) ![](singleshot/sks.PNG) ![](singleshot/slr.PNG) ![](singleshot/win94.PNG)
