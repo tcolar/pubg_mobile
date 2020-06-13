@@ -45,5 +45,5 @@ Many of the things I've learned is from watching streamers, here is short list o
 - Main page: [Main page](/index.md)
 - Weapons info : [Weapons](/weapons.md)
 - Controls & layout : [Controls](/controls.md)
-- Spray pattrns : [Spray](/spray.md)
+- Recoil pattrns : [Recoil](/recoil.md)
 - Tips & tricks [Tips](/tips.md)
