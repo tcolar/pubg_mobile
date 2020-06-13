@@ -2,7 +2,7 @@
 
 ---
 
-All pages : [Main page](/index.md) \ [Weapons](/weapons.md) \ [Controls](/controls.md) \ [Tips](/tips.md)
+All pages : [Main page](/index.md) \ [Weapons](/weapons.md) \ [Recoil patterns](/recoil.md) \ [Controls](/controls.md) \ [Tips](/tips.md)
 
 ---
 

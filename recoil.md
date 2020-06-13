@@ -88,6 +88,8 @@ Standing by the attachments tables, taking a single shot, using a 6x when possib
 
 ### Results
 
-![](singleshot/aug.PNG) ![](singleshot/awm.PNG) ![](singleshot/dp28.PNG) ![](singleshot/kar98.PNG) ![](singleshot/m16a4.PNG) ![](singleshot/m24.PNG) ![](singleshot/m249.PNG) ![](singleshot/m416.PNG) ![](singleshot/m762.PNG) ![](singleshot/mini14.PNG) ![](singleshot/mk14.PNG) ![](singleshot/mutant.PNG) ![](singleshot/qbu.PNG) ![](singleshot/scar.PNG) ![](singleshot/sqs.PNG) ![](singleshot/sks.PNG) ![](singleshot/slr.PNG) ![](singleshot/win94.PNG)
+Observations:
 
-### Observations
+- SLR, SKS and MK124 have very though single shot recoils (both vertical and horizontal and a lot)
+
+![](singleshot/aug.PNG) ![](singleshot/awm.PNG) ![](singleshot/dp28.PNG) ![](singleshot/kar98.PNG) ![](singleshot/m16a4.PNG) ![](singleshot/m24.PNG) ![](singleshot/m249.PNG) ![](singleshot/m416.PNG) ![](singleshot/m762.PNG) ![](singleshot/mini14.PNG) ![](singleshot/mk14.PNG) ![](singleshot/mutant.PNG) ![](singleshot/qbu.PNG) ![](singleshot/scar.PNG) ![](singleshot/sqs.PNG) ![](singleshot/sks.PNG) ![](singleshot/slr.PNG) ![](singleshot/win94.PNG)
