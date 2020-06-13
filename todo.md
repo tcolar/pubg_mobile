@@ -1,8 +1,4 @@
-## Brain dump
-
-Publish to github
-
-multiple pages ?
+# TODO's / Ideas
 
 sensitivity : https://www.youtube.com/watch?v=43nsOZPo6X4
 basic settings
@@ -10,7 +6,7 @@ peek and scope: https://www.youtube.com/watch?v=azWqlNlYAI8
 
 Solo, squads, solo-squads
 
-Clan
+Join a Clan
 
 Desync / ping : https://www.youtube.com/watch?v=7i0NM6u17Jc
 feedback of blood when spraying
@@ -24,13 +20,9 @@ head shot, body shots, vest & helmet levels
 snaking, tpp/fpp
 https://www.youtube.com/watch?v=Yh7oXsPnS1k
 
-Bushka, Alton Brown of ubg
-
 Crate weapons, not much chance to practice
 
 Arcade games etc …
-
-Streamers
 
 Safe vs Hot drop
 https://www.youtube.com/watch?v=yTXB87oSZVE

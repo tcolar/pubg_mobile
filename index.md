@@ -2,7 +2,7 @@
 
 ---
 
-All pages : [Main page](/index.md) | [Weapons](/weapons.md) | [Controls](/controls.md) | [Tips](/tips.md)
+All pages : [Main page](/index.md) \ [Weapons](/weapons.md) \ [Controls](/controls.md) \ [Tips](/tips.md)
 
 ---
 
@@ -44,5 +44,6 @@ Many of the things I've learned is from watching streamers, here is short list o
 
 - Main page: [Main page](/index.md)
 - Weapons info : [Weapons](/weapons.md)
-- Controls & layout : [Controls](/controls/md)
+- Controls & layout : [Controls](/controls.md)
+- Spray pattrns : [Spray](/spray.md)
 - Tips & tricks [Tips](/tips.md)
