@@ -56,26 +56,32 @@ Tested on M416 without any other attachments, 3 times per grip.
 Seems to me on an AR the vertical grip or the half grip are good options
 
 - No Grip:
+
   ![](grips/m416_none_1.PNG) ![](grips/m416_none_2.PNG) ![](grips/m416_none_3.PNG)
 
 - Thumb grip:
   Does not seem to do much recoil wise, but it provides faster ADS.
+
   ![](grips/m416_thumb_1.PNG) ![](grips/m416_thumb_2.PNG) ![](grips/m416_thumb_3.PNG)
 
 - Half grip:
   Seems to help **slightly** with both horizontal and vertical recoil, also gives faster recoil recovery, not a bad choice.
+
   ![](grips/m416_half_1.PNG) ![](grips/m416_half_2.PNG) ![](grips/m416_half_3.PNG)
 
 - Light grip:
   Seems to **maybe** help a bit on horizontal recoil, but supposed to be good on snipers
+
   ![](grips/m416_light_1.PNG) ![](grips/m416_light_2.PNG) ![](grips/m416_light_3.PNG)
 
 - Vertical grip:
   Does what you would expect, reduces the vertical (only) recoil a bit
+
   ![](grips/m416_vert_1.PNG) ![](grips/m416_vert_2.PNG) ![](grips/m416_vert_3.PNG)
 
 - Angled grip:
   This is supposed to reduce recoil, but I'm not really seeing it
+
   ![](grips/m416_angled_1.PNG) ![](grips/m416_angled_2.PNG) ![](grips/m416_angled_3.PNG)
 
 ### SKS
