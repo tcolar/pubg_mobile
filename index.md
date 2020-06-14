@@ -45,6 +45,7 @@ Many of the things I've learned is from watching streamers, here is short list o
 - Main page: [Main page](/index.md)
 - Play Style [Play Style](/play_style.md)
 - Weapons info : [Weapons](/weapons.md)
+- Settings : [Settings](/settings.md)
 - Controls & layout : [Controls](/controls.md)
 - Recoil patterns : [Recoil](/recoil.md)
 - Attachments : [Attachments](/attachments.md)
