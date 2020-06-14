@@ -484,6 +484,8 @@ Surprisingly I'm able to land shots with this (medium range), I use it on Mirama
 
 Bushka, win94 : <https://www.youtube.com/watch?v=PekelC21PaI>
 
+---
+
 ### Throwables Details
 
 They can save you from bad situations.
@@ -512,7 +514,7 @@ Example usages:
 
 Blow stuff up :)
 
-They can be a bit tricky to use, to be effective you need to cock them (wait to throw them), such as they blow as soon as they land, so the enemy does not have time to run.
+They can be a bit tricky to use, to be effective you need to cock them (wait to throw them), such as they blow up as soon as they land, so the enemy does not have time to run.
 
 You have to be careful though, while you cock it, you are a seating duck (no weapon)
 If you wait too long, it will blow in your face
