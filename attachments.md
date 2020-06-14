@@ -65,8 +65,8 @@ First, I want to say a compensator seems to have much more effect on recoil than
 
 My recommendations:
 
-- Low recoil weapons(ie: SMG), use the thumb grip, for faster ADS
-- High recoil weapons: If you can manage the vertical recoil, try the half grip, it will help wil horizontal recoil which you can not really manage yourself.
+- Low recoil weapons(ie: SMG): Use the thumb grip, for faster ADS
+- High recoil weapons: If you know how to manage the vertical recoil, try the half grip, it will help with horizontal recoil, which you can not really manage yourself.
 - If you can not manage vertical recoil, try fixing your sensitivity, but if it's still a problem then use the vertical grip
 - For "single tap" guns (generally DMR's), the light grip is supposed to be good (first 2 shots) but I have not tested that yet
 - The angle grip seems useless to me
