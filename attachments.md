@@ -61,11 +61,19 @@ Findings:
 
 Bushka grip video : https://www.youtube.com/watch?v=8ccHjK3eWGE
 
+First, I want to say a compensator seems to have much more effect on recoil than any grip, so keep that in mind.
+
+My recommendations:
+
+- Low recoil weapons(ie: SMG), use the thumb grip, for faster ADS
+- High recoil weapons: If you can manage the vertical recoil, try the half grip, it will help wil horizontal recoil which you can not really manage yourself.
+- If you can not manage vertical recoil, try fixing your sensitivity, but if it's still a problem then use the vertical grip
+- For "single tap" guns (generally DMR's), the light grip is supposed to be good (first 2 shots) but I have not tested that yet
+- The angle grip seems useless to me
+
 ### M416
 
 Tested on the M416 without any other attachments, 3 tries per grip.
-
-Seems to me that on an AR the vertical grip or the half grip are good options
 
 #### No Grip:
 
