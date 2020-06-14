@@ -146,11 +146,11 @@ Pick up the pan to protect from bullets or as a last resort weapon, all the othe
 
 #### Throwables
 
-They can give you a huge strategic advantage, you should probably change your settings to pick more of these in your settings, and learn to use them.
+They can give you a huge strategic advantage, you should probably change your settings to pick more of these, and learn to use them.
 
 Tip: you can throw them further if you use a running start (throw them while running).
 
-Tip: You can simply let a smoke grenade "explode" in your hands, rather than throwing at your feet with it bouncing away.
+Tip: You can simply let a smoke grenade "explode" in your hands, rather than throwing it at your feet and watching it bounce.
 
 ---
 
@@ -501,12 +501,12 @@ Smoke grenades are extremely important, doubly so in squads
 
 Example usages:
 
-- Need to revive a teammate, while not getting shot, use a smoke
+- Need to revive a teammate, while not getting shot at, use a smoke
 - Need to loot a crate safely, use a smoke
 - Need to get into a vehicle safely, use a smoke
 - Need to get to cover, put a smoke or two between you and the opponent to block their field of view
-- Want to play mind tricks, put a smoke somewhere in the distance, your opponent will assume you are somewhere near it, while you circle behind them
-- Someone is camping the last building in the circle? Throw a smoke AT THEM, they then won't be able to see you for a while, unless they exit the building. This evens the odds and lets you get close to them, as a bonus they might panic thinking it's a frag grenade
+- Want to play mind tricks, put a smoke somewhere in the distance, your opponent will assume you are somewhere near it, while you get behind them
+- Someone is camping the last cover in the circle? Throw a smoke AT THEM, they then won't be able to see you for a while, unless they exit the cover. This evens the odds and lets you get close to them, as a bonus they might panic thinking it's a frag grenade
 
 #### Frag grenades
 
