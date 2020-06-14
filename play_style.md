@@ -6,6 +6,17 @@ All pages : [Main page](/index.md) \ [Play Style](/play_style.md) \ [Weapons](/w
 
 ---
 
+## Table of Contents
+
+- [FPP vs TPP](#fpp-vs-tpp)
+- [Solo, Duos, Squads, solo-squads](#solo-duos-squads-solo-squads)
+- [Play Styles](#play-styles)
+- [Best loadaout](#best-laout)
+- [Getting better](#getting-better)
+- [Cheaters and hackers](#cheaters-and-hackers)
+
+---
+
 ### FPP vs TPP
 
 You can chose to play FPP (first person view) or TPP (third party camera)
@@ -18,7 +29,9 @@ Personally I much prefer FPP because:
 
 With that said, I actually only play TPP nowadays, because since the FPP option is not the default, much fewer people play it, so once you get to platinum level, it takes several minutes for a game to start, once in diamond or higher it's nearly impossible to get in a game :(
 
-### Solo, Duo, Squads, solo-squads
+---
+
+### Solo, Duos, Squads, solo-squads
 
 #### Solos
 
@@ -53,7 +66,11 @@ If you don't have 4 good friends to play with **highly recommend joining a large
 
 If you are really really good and want a challenge, you can chose to play squads all by yourself (turn off auto player matching).
 
-### Ranking
+---
+
+### Play styles
+
+#### Ranking
 
 As you play more, you rank up (gold, platinum, ace etc...)
 Just keep in mind that ranking up is an absolute grind and can be no fun.
@@ -63,7 +80,9 @@ The game very heavily favors survival time over anything else, so if you want to
 Bushka, easiest way to rank : <https://www.youtube.com/watch?v=yTXB87oSZVE>
 He is absolutely correct, but it's also not at all how he actually plays (aggressive)
 
-### Snaking
+---
+
+#### Snaking
 
 Snaking is when you spend a good part of the game laying immobile in the grass waiting for an unsuspecting victim.
 
@@ -76,7 +95,7 @@ Snaking is when you spend a good part of the game laying immobile in the grass w
 
 Bushka, beating snakes: <https://www.youtube.com/watch?v=Yh7oXsPnS1k>
 
-### Camping
+#### Camping
 
 Camping is similar to snaking, but in a building, you just stay there, motionless, waiting for someone to come through the door.
 
@@ -86,7 +105,7 @@ Same as snaking, it can be an effective tactic when you hear someone coming by a
 
 Bushka, house fighting : <https://www.youtube.com/watch?v=mR980hidSQw>
 
-### Hot dropping / aggressive
+### Hot dropping & aggressive
 
 Hot dropping, is when you land at very popular location such as Pochinki, Villa, Pecado or BootCamp. It's fun and makes you get improve, but it's aso very hard and unforgiving.
 
@@ -101,11 +120,11 @@ When hot dropping, dying early can mostly be a matter of luck, the guy next to y
 
 Bushka, Hot dropping: <https://www.youtube.com/watch?v=fwQskziwp2c>
 
-### Somewhere in between
+#### Somewhere in between
 
 So with that said, you can figure out if you want to rank and play super safe, or be a sweaty and do hot drops only, or do something in between.
 
-### Jumping, Crouching, Going prone during a gunfight
+#### Jumping, Crouching, Going prone during a gunfight
 
 A lot of people will jump around when you are shooting at them from a distance (Fortnite style), I don't think it's very useful, when someone jumps they can't turn while in the air, so you can time their landing to get a head shot.
 
@@ -117,11 +136,48 @@ In my opinion it's best is to keep standing and moving in semi random patterns.
 
 Shooting at center mass : <https://www.youtube.com/watch?v=hh--SvIgxCk>
 
-### Going for crates or not
+#### Going for crates or not
 
 It's in the same vein as playing safe for VS aggressive.
 
 On the one hand getting an AWM or MK14 will be a massive advantage in the late game, but on the other hand you might die going to that crate.
+
+---
+
+### Best layout
+
+I put this here, because the best layout really depends on your play style.
+
+When playing squads, it's best if the squad covers all angles, some SMGs, some ARs, somne DMRs, some snipers.
+If everyone uses an M416 you will also be fighting over ammo.
+
+So anyway this will focus on the solo layout, were hard decisions have to be made.
+
+#### Early game
+
+First of all, during the earkly game, the best layout is anything better than your opponents, so do pick up the pans, pistols, shotguns, crossbows, until you can find better.
+
+#### Crate weapons
+
+Ok, if you can find these, then of course do so, any combination of Groza, Mk14 and AWM can cover pretty much anything.
+
+#### Best basic loadout (common weapons) :
+
+A good start is a "face melter" paired with a 5.56 AR, for example Uzi & M416 or M762 & Scar. The Uzi or M762 should win any CQC battle (less than say 30M), and the 5.16 AR can handle eveyhting up to 150m no prolem, and even further on single shot thanks to the hight bullet speed. It will be a bit weak at long ranges but you can chose to avoid these confrontations
+
+#### Sniper loadout
+
+If you want to carry a sniper (say a Kar98), you have to make a decision on your other weapon, it can be a tough choice. If you pair it with a 5.56 AR, you will have a sharp weakness to any CQC fight. Pairing it to an AKM might be a better choice, but you won't have a good option for midrange spray, you will want to either snipe them from far away, or let them get close enough to meet your AKM.
+
+#### DMR loadout
+
+A DMR based loadout can be more versatile than a sniper based one. The DMR can cover mid rannge to long range very well. So, for example a M762 paired with a Mini14/QBU can hande a lot, The DMR can be effective anywhere from mid to very long range, and you can even kill a sniper with it if you are careful (no peeking).
+
+#### Double AR loadout
+
+Because ARs are so versatile, a double AR loadout can actually do very well, for example an M762 with a M416 or DP28 can cover everything other than very long range, this makes the most sense on the smaller maps such as Sanhok.
+
+---
 
 ### Getting better
 
@@ -130,7 +186,7 @@ The best way to get better is to play more, but there are some things you can no
 - Figure out your controls and sensitivity setting in training mode
 - Play some acade games to practice 1v1 combat, you might only fight 3 enemies in a 20mn classic games, but have 50+ engagements in a 15mn Domination arcade game.
 
-### Arcade games
+#### Arcade games
 
 Arcade games are a great way to practice.
 
@@ -153,6 +209,8 @@ Arcade games are a great way to practice.
 - RageGear, a.k.a MadMax
 
   A decent way to practice shooting from moving vehicles
+
+---
 
 ### Cheaters and hackers
 
