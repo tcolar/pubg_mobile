@@ -45,7 +45,7 @@ If you can do 3 fingers, probably 4 is not much harder, in that case using that 
 
 After that you can try 5,6,8 fingers but you will need a large screen and a lot of dexterity, for me 4 or so is enough and 6+ is uncomfortable even on an iPad.
 
-Bushka video on switching to 6 fingers: https://www.youtube.com/watch?v=wA_2j3eA8KE
+Bushka video on switching to 6 fingers: <https://www.youtube.com/watch?v=wA_2j3eA8KE>
 
 ### My current layout
 
