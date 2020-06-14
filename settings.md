@@ -12,15 +12,15 @@ This page does not cover the Controls layout, see the separate page for that.
 
 ## Basic settings
 
-- Aim assist, can help tracking target
+- Aim assist: can help tracking target
 - Bolt action release mode : Shoot on press or on release
 - Sniper firing mode: Shoot on press or on release
 - Peek and fire: You **should enable that**, add buttons that allow you to peek sideways
 - Peek and open scope: Off gives you more options, but you will need 5+ fingers, see Bushka video <https://www.youtube.com/watch?v=azWqlNlYAI8>
 - Lean and scope mode : "mixed" is usually a good choice
 - Display left fire button, useful if you want a separate sniper button
-- Gyroscope : A good option if you hold your phone/tablet and can't use too many fingers, like having an extra finger for aiming
-- Separate jump/climb: Optional, but separate can allow you tricks to get on top of buildings and such
+- Gyroscope : A good option if you hold your phone/tablet and can't use too many fingers, it's like having an extra finger for aiming
+- Separate jump/climb: Optional, but separate can allow you to do some tricks to get on top of buildings and such
 - Universal mark: On, makes it easy to mark things for your teammates
 - Death replay : On, let you see how you died (and if it was a hacker)
 
@@ -33,11 +33,11 @@ I use smooth / Extreme, my device can do better graphics, but this keeps it cool
 
 - Brightness: **Tip:** keeping this low makes it easier to see in the fog !
 
-- Auto adjust graphics, might be useful if your device has a hard time keeping up, but I rather have it off so the frame rate does not fluctuate
+- Auto adjust graphics: might be useful if your device has a hard time keeping up, but I rather have it off so the frame rate does not fluctuate
 
 ## Vehicle
 
-Does not really matter, just make sre the car control don't overlap with other buttons
+Does not really matter, just make sure the car control don't overlap with other buttons
 
 ## Sensitivity
 
