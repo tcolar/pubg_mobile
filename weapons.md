@@ -2,7 +2,7 @@
 
 ---
 
-All pages : [Main page](/index.md) \ [Weapons](/weapons.md) \ [Recoil patterns](/recoil.md) \ [Attachments](/attachments.md) \ [Controls](/controls.md) \ [Tips](/tips.md)
+All pages : [Main page](/index.md) [Play Style](/play_style.md) \ [Weapons](/weapons.md) \ [Recoil patterns](/recoil.md) \ [Attachments](/attachments.md) \ [Settings](/settings) \ [Controls](/controls.md) \ [Tips](/tips.md)
 
 ---
 
@@ -109,6 +109,8 @@ It could be my aim, but I think the problem is desync (whereas the player is no 
 An exception would be if you know exactly where the user is going to be (door, hallway) then it might work, but anyway overall this makes shotgun not worth carrying in classic games (but very fun in TDM).
 
 Bushka, s12K : https://www.youtube.com/watch?v=xIywSLjKkdc
+
+Bushka, Desync : https://www.youtube.com/watch?v=7i0NM6u17Jc
 
 - Crossbow
 
