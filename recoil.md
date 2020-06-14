@@ -10,17 +10,17 @@ All pages : [Main page](/index.md) \ [Play Style](/play_style.md) \ [Weapons](/w
 
 ### Methodology
 
-To get a good idea of the spray pattern, I'm shooting the guns at very short range (~6m ?) into a box hat has a grid pattern on it (training range)
+To get a good idea of the spray pattern, I'm shooting the weapons at very short range (~6m ?) into a box that has a grid pattern on it (training range)
 
 ![](spray/location.PNG)
 
 A few notes:
 
 - I picked this location because it's easy to square up against the two short boxes
-- It's also close by all the weapons and attachments
+- It's also close to all the weapons and attachments
 - The tall box I fire into, has a grid pattern, and is roughly the size of a player, a bit taller and wider.
 - I don't use any attachments of any kind (other than a red dot)
-- This is just one sample, recoil is semi random, still it gives a good signal.
+- This is just one sample, recoil is semi random, still it gives a good signal
 - For DMR's I spam them as fast as I can
 - For auto weapons I unload a full mag (even though in real life you may not)
 
@@ -44,7 +44,7 @@ I start my spray at this point :
 #### 5.56 ARs
 
 - I knew something was off with the m16a4, and this is "tapping", but boy, this shoots all over the place !
-- I had noticed the QBZ felt a bit harder to handle, as you can see it has more horizontal recoil
+- I had noticed the QBZ felt a bit harder to handle, as you can see it has more recoil
 
 ![](spray/aug.PNG) ![](spray/m16a4.PNG) ![](spray/m416.PNG) ![](spray/qbz.PNG) ![](spray/scar.PNG)
 
@@ -58,7 +58,7 @@ I start my spray at this point :
 
 #### LMGs
 
-- The DP28 is any not harder to handle than the 5.56 AR, yet does a lot more damage, use it !
+- The DP28 is not any harder to handle than the 5.56 AR, yet does more damage, use it at range !
 - The M249 has a crazy pattern, keep in mind it's 50 bullets though, and meant to spray, but that left recoil is wild
 
 ![](spray/m249.PNG) ![](spray/dp28.PNG)
@@ -66,7 +66,7 @@ I start my spray at this point :
 #### DMRs
 
 - The Mini15 and QBU have fairly low recoil, especially horizontal, making them easy to use
-- The SKS seems to have a weird strong left recoil, maybe that's why I can't land multiple shots with it
+- The SKS seems to have a weird sharp left recoil, maybe that's why I can't land multiple shots with it
 - The VSS s not a real DMR, but look at this beautiful grouping !
 
 ![](spray/mini14.PNG) ![](spray/qbu.PNG) ![](spray/sks.PNG) ![](spray/slr.PNG) ![](spray/vss.PNG)
