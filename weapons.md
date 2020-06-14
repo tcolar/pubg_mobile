@@ -14,13 +14,15 @@ All pages : [Main page](/index.md) \ [Play Style](/play_style.md) \ [Weapons](/w
   - [Assault Rifles](#assault-rifles)
   - [SMG](#smg)
   - [LMG](#lmg)
-  - [Other Weapons](other-weapons)
+  - [Other Weapons](#other-weapons)
+  - [Throwables](#throwables)
 - [Weapon Details](#weapon-details)
   - [Crate weapons](#crate-weapons)
   - [7.62 weapons](#762-weapons)
   - [5.56 weapons](#556-weapons)
   - [9 mm weapons](#9-mm-weapons)
   - [45 ACP weapons](#45-acp-weapons)
+  - [Throwables Details](#throwables-details)
 
 ## Weapon Categories
 
@@ -141,6 +143,14 @@ Bushka, pistols : <https://www.youtube.com/watch?v=-ci3NvZqEQQ>
 ![](weapons/pan.PNG)
 
 Pick up the pan to protect from bullets or as a last resort weapon, all the other ones are not worth talking about.
+
+#### Throwables
+
+They can give you a huge strategic advantage, you should probably change your settings to pick more of these in your settings, and learn to use them.
+
+Tip: you can throw them further if you use a running start (throw them while running).
+
+Tip: You can simply let a smoke grenade "explode" in your hands, rather than throwing at your feet with it bouncing away.
 
 ---
 
@@ -473,3 +483,68 @@ Now that it comes with a scope it's a tiny bit more useful, it's also pretty fas
 Surprisingly I'm able to land shots with this (medium range), I use it on Miramar, mostly because it's so hard to find any scopes, but the minute I fnd a 3x or better, I drop the winchester and put the scope on anything else instead.
 
 Bushka, win94 : <https://www.youtube.com/watch?v=PekelC21PaI>
+
+### Throwables Details
+
+They can save you from bad situations.
+
+Bushka, grenades: https://www.youtube.com/watch?v=M3uAfMLxl_g
+Bushka, more grenades: https://www.youtube.com/watch?v=ABjiKAeWkOU
+Bushka, grenade tactics: https://www.youtube.com/watch?v=5rFLEpdWwkY
+Bushka, smokes: https://www.youtube.com/watch?v=80JeSuVHyS0
+
+Tip: Grenades bounce of objects, so you don't need a clear line of sight, for example you can bounce it of the stairwell from the 1st floor to get it to land on the second floor, without the opponent ever seeing you.
+
+#### Smoke grenades
+
+Smoke grenades are extremely important, doubly so in squads
+
+Example usages:
+
+- Need to revive a teammate, while not getting shot, use a smoke
+- Need to loot a crate safely, use a smoke
+- Need to get into a vehicle safely, use a smoke
+- Need to get to cover, put a smoke or two between you and the opponent to block their field of view
+- Want to play mind tricks, put a smoke somewhere in the distance, your opponent will assume you are somewhere near it, while you circle behind them
+- Someone is camping the last building in the circle? Throw a smoke AT THEM, they then won't be able to see you for a while, unless they exit the building. This evens the odds and lets you get close to them, as a bonus they might panic thinking it's a frag grenade
+
+#### Frag grenades
+
+Blow stuff up :)
+
+They can be a bit tricky to use, to be effective you need to cock them (wait to throw them), such as they blow as soon as they land, so the enemy does not have time to run.
+
+You have to be careful though, while you cock it, you are a seating duck (no weapon)
+If you wait too long, it will blow in your face
+If you panic, it might bounce back to you or your teammates.
+
+They are very useful though :
+
+- Need to clear a house/rock/tree camper ? This is the best tool
+- Need to finish off a knock without exposing yourself to fire ? nade.
+- Want to blow up someone reviving their teammate, including in smoke ? nade.
+- Want to blow up a vehicle ? nade.
+- Want to make an air drop crate fall from a roof, a few grenade blasts might work
+- Need to unstuck a vehicle, the grenade blast might work, or destroy it :)
+- Want to force snakes to move, throw a few grenades around
+
+#### Molotov
+
+Another underrated tool, while it might not fully kill someone, it has a large radius and does a lot of damage, so you can then easily finish them off with your weapon after they burn a bit.
+
+It's much less risky to use than the grenades, as it will not explode in your face, and you don't need to cock it.
+
+Uses:
+
+- Need to clear a house/rock/tree camper ? this works well and without much noise.
+- Need to finish off a knock without exposing yourself to fire ? molotov.
+- Need to block an escape route ? molotov.
+- Want to burn down a door ? molotov.
+- Want to damage yourself of your teammate without killing them ? molotov, ok, this is dumb, but Pubg gives you more points for using lots of meds :-/
+
+#### Flash grenades
+
+I don't use these much, the main use cases:
+
+- Throw them at people, and they might panic thinking it's a real grenade.
+- Throw them just before charging a house, they won't be able to see or hear anything for a bit.

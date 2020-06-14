@@ -42,3 +42,7 @@ Because the FPP camera is lower and forward (compared to the TPP one that is beh
 
 Ever had a teammate mark a item for you, but by the time you get there the marker is gone ?
 Click the chat icon, then in the chat popup, click the "clock" (history) icon. Click the item you missed and the marker will show again !
+
+#### Use throwables
+
+Seriously, these can give you a huge strategic advantage, see the weapons page for more details.
