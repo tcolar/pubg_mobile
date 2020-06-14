@@ -123,4 +123,4 @@ Go in the training mode and get in a car, make sure no buttons overlay the drivi
 
 ![](screenshots/driving.PNG)
 
-Bushka, 6 fingers claw : https://www.youtube.com/watch?v=HA191r_ISHE
+Bushka, 6 fingers claw : <https://www.youtube.com/watch?v=HA191r_ISHE>

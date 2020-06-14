@@ -23,20 +23,20 @@ Many of the things I've learned is from watching streamers, here is short list o
 - **Bushka**
   By far my favorite, he spends more time teaching than playing and is excellent at both, he also uses a very scientific approach and use facts and delivers a ton of content, he is the Alton Brown of Pubg :)
 
-  Youtube : https://www.youtube.com/channel/UCFpYIlyzhOKGjaDq5-hXrVQ
-  Pubg Stats page : https://www.thebushka.com/
+  Youtube : <https://www.youtube.com/channel/UCFpYIlyzhOKGjaDq5-hXrVQ>
+  Pubg Stats page : <https://www.thebushka.com/>
 
 - **Powerbang**
   Also delivers a ton of good info and tips
-  https://www.youtube.com/channel/UCqSeA-rZs6GOfZrs9jZRXtA
+  <https://www.youtube.com/channel/UCqSeA-rZs6GOfZrs9jZRXtA>
 
 - **Other streamers**
   Other streamers I watch sometimes (gameplay):
-- **HerGaming**: https://www.youtube.com/channel/UCvw3mRp82gn47qdafyb2ZQg
-- **Winsannity**: https://www.youtube.com/channel/UCdjT0TX-IKlSJxon_oOZ-ag
-- **WickedGaming**: https://www.youtube.com/channel/UCR-wDrMQBNGwqN0hFt7rr2g
-- **The7WorldsGaming**: https://www.youtube.com/channel/UCzMU4bxetVvbSNDQAWw_0dQ
-- **AthenaGaming** :https://www.youtube.com/channel/UCWIyLEJSRLcCmmgFpB45uUw
+- **HerGaming**: <https://www.youtube.com/channel/UCvw3mRp82gn47qdafyb2ZQg>
+- **Winsannity**: <https://www.youtube.com/channel/UCdjT0TX-IKlSJxon_oOZ-ag>
+- **WickedGaming**: <https://www.youtube.com/channel/UCR-wDrMQBNGwqN0hFt7rr2g>
+- **The7WorldsGaming**: <https://www.youtube.com/channel/UCzMU4bxetVvbSNDQAWw_0dQ>
+- **AthenaGaming** :<https://www.youtube.com/channel/UCWIyLEJSRLcCmmgFpB45uUw>
 
 ---
 

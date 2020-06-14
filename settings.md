@@ -16,7 +16,7 @@ This page does not cover the Controls layout, see the separate page for that.
 - Bolt action release mode : Shoot on press or on release
 - Sniper firing mode: Shoot on press or on release
 - Peek and fire: You **should enable that**, add buttons that allow you to peek sideways
-- Peek and open scope: Off gives you more options, but you will need 5+ fingers, see Bushka video https://www.youtube.com/watch?v=azWqlNlYAI8
+- Peek and open scope: Off gives you more options, but you will need 5+ fingers, see Bushka video <https://www.youtube.com/watch?v=azWqlNlYAI8>
 - Lean and scope mode : "mixed" is usually a good choice
 - Display left fire button, useful if you want a separate sniper button
 - Gyroscope : A good option if you hold your phone/tablet and can't use too many fingers, like having an extra finger for aiming
@@ -43,7 +43,7 @@ Does not really matter, just make sre the car control don't overlap with other b
 
 **This is hugely important**, if you can't control recoil, this is probably why, find what works for you in training mode.
 
-Here is a detailed video from Bushka : https://www.youtube.com/watch?v=43nsOZPo6X4
+Here is a detailed video from Bushka : <https://www.youtube.com/watch?v=43nsOZPo6X4>
 
 ## Pick up
 

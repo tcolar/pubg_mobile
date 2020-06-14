@@ -60,7 +60,7 @@ Just keep in mind that ranking up is an absolute grind and can be no fun at all.
 
 The game very heavily favors survival time over anything else, so if you want to rank, the bets plan is to hide and avoid conflict as long as you can, it works, but it's also very boring
 
-Bushka, easiest way to rank : https://www.youtube.com/watch?v=yTXB87oSZVE
+Bushka, easiest way to rank : <https://www.youtube.com/watch?v=yTXB87oSZVE>
 He is absolutely correct, but it's also not at all how he normally plays (aggressive)
 
 ### Snaking
@@ -74,7 +74,7 @@ Snaking is when you spend a good part of the game laying immobile in the grass w
 - Everyone hates snakes
 - Sanhok is snake heaven ... and wy I don't play it much anymore
 
-Bushka, beating snakes: https://www.youtube.com/watch?v=Yh7oXsPnS1k
+Bushka, beating snakes: <https://www.youtube.com/watch?v=Yh7oXsPnS1k>
 
 ### Camping
 
@@ -84,13 +84,13 @@ Camping is similar to snaking, but in a building, you just stay there, motionles
 
 Same as snaking, it can be effective to do when you hear someone coming by a building you are in, but if you spend the whole game doing this it's boring and everyone will hate you.
 
-Bushka, house fighting : https://www.youtube.com/watch?v=mR980hidSQw
+Bushka, house fighting : <https://www.youtube.com/watch?v=mR980hidSQw>
 
 ### Hot dropping / aggressive
 
 Hot dropping is when you land at very popular locations such as Pochinki, Villa, Pecado or BootCamp. It's fun and makes you get better, but it's aso very hard.
 
-First, make sure you know how to parachute at full speed to even have a chance : https://www.youtube.com/watch?v=Jkfdbqao9Uo
+First, make sure you know how to parachute at full speed to even have a chance : <https://www.youtube.com/watch?v=Jkfdbqao9Uo>
 
 Hot dropping is fun but bad for ranking (unless you are crazy good), the reason being how Pubg points work, for example At Diamond level:
 
@@ -99,7 +99,7 @@ Hot dropping is fun but bad for ranking (unless you are crazy good), the reason 
 
 When hot dropping, dying early can mostly be a matter of luck, the guy next to you landed on a Uzi, not much you can do, but the game beats you up for it.
 
-Bushka, Hot dropping: https://www.youtube.com/watch?v=fwQskziwp2c
+Bushka, Hot dropping: <https://www.youtube.com/watch?v=fwQskziwp2c>
 
 ### Somewhere in between
 
@@ -115,7 +115,7 @@ Yet another technique, is drop shooting, whereas you go prone in the middle of a
 
 In my opinion it's best is to keep standing and moving in semi random patterns.
 
-Shooting at center mass : https://www.youtube.com/watch?v=hh--SvIgxCk
+Shooting at center mass : <https://www.youtube.com/watch?v=hh--SvIgxCk>
 
 ### Going for crates or not
 

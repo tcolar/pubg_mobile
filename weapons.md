@@ -26,7 +26,7 @@ All pages : [Main page](/index.md) \ [Play Style](/play_style.md) \ [Weapons](/w
 
 ### Weapon stats
 
-Bushka has the best data, I'm not going to copy it here, refer to https://www.thebushka.com/
+Bushka has the best data, I'm not going to copy it here, refer to <https://www.thebushka.com/>
 
 ### Weapon ranges
 
@@ -108,9 +108,9 @@ Ok, shotguns are not that bad and I love me the s12K, they can be devastating in
 It could be my aim, but I think the problem is desync (whereas the player is no longer where you see it on your screen because of network lag). Because you use shotguns in CQC (very close range), desync means that while you see the player right in front of you he might already be to your far left, and so your shotgun shot misses completely. That's why you are better off spraying an SMG or AR.
 An exception would be if you know exactly where the user is going to be (door, hallway) then it might work, but anyway overall this makes shotgun not worth carrying in classic games (but very fun in TDM).
 
-Bushka, s12K : https://www.youtube.com/watch?v=xIywSLjKkdc
+Bushka, s12K : <https://www.youtube.com/watch?v=xIywSLjKkdc>
 
-Bushka, Desync : https://www.youtube.com/watch?v=7i0NM6u17Jc
+Bushka, Desync : <https://www.youtube.com/watch?v=7i0NM6u17Jc>
 
 - Crossbow
 
@@ -120,7 +120,7 @@ I love using the crossbow, and killing someone wth it amazing, yet I never bothe
 
 It's completely silent which can be very neat, I really wish they made it a side arm, I would pick it over pistols and it would be fun to use in the right situation.
 
-Bushka, Crossbow: https://www.youtube.com/watch?v=XanKPcyJONQ
+Bushka, Crossbow: <https://www.youtube.com/watch?v=XanKPcyJONQ>
 
 - Pistols:
 
@@ -134,7 +134,7 @@ I have two use for them:
 
 2. As a side weapon, in case of emergencies (out of ammo in other 2 guns), for that purpose (panic time) a spray weapon is best, so a P18C or Skorpion is good, but its very rare that I actually have to resort to it.
 
-Bushka, pistols : https://www.youtube.com/watch?v=-ci3NvZqEQQ
+Bushka, pistols : <https://www.youtube.com/watch?v=-ci3NvZqEQQ>
 
 - Melee weapons
 
@@ -163,7 +163,7 @@ This is a ridiculously OP weapon, but not many people like it. I think there are
 
 The thing is if you put this on auto and use it at reasonable range (because of recoil a bit like an AKM), this thing is crazy damaging, it kills faster than anything else and by a lot, including Uzi, Berryl, Groza, anything, mag is kinda small, need to keep that in mind, but because it does so much damage per bullet it's not actually a big deal.
 
-Bushka MK14 : https://www.youtube.com/watch?v=IWxArl6UxOo
+Bushka MK14 : <https://www.youtube.com/watch?v=IWxArl6UxOo>
 
 ### AUG (AR)
 
@@ -177,7 +177,7 @@ There is really nothing special about the AUG, it's not really any better than o
 
 As I said before, IMO the only point of using a sniper are one shot kills, and the AWM guarantees it (if you land your head shot), so of course you should pick it up. The only drawback it has it's own limited special ammo, so try not to waste it.
 
-Bushka AWM : https://www.youtube.com/watch?v=UrlEfxWhy0M
+Bushka AWM : <https://www.youtube.com/watch?v=UrlEfxWhy0M>
 
 #### DBS (Shotgun)
 
@@ -188,7 +188,7 @@ It's an OP weapon, but with no place in the game meta. If you could find it in a
 
 I don't pick it up in solos, in squads, someone might take the risk to pick it up, if it look like the circle is closing on a CQC location like Pochinki or Bootcamp, and even then, as I explained before shotguns are flaky because of dsync ....
 
-Bushka DBS : https://www.youtube.com/watch?v=UHVgXp_807Y
+Bushka DBS : <https://www.youtube.com/watch?v=UHVgXp_807Y>
 
 #### Groza (AR)
 
@@ -196,7 +196,7 @@ Bushka DBS : https://www.youtube.com/watch?v=UHVgXp_807Y
 
 The Groza is one of the best AR's for sure, very high damage and rate of fire, plus the sound of it just scares people. the only AR I sometimes keep over it is a fully kitted M762, but I think it's only because I'm more used to it (or could be because the M762 can take a grip while the Groza does not), great weapon regardless.
 
-Bushka, Groza : https://www.youtube.com/watch?v=lDnQ3kmHQVg
+Bushka, Groza : <https://www.youtube.com/watch?v=lDnQ3kmHQVg>
 
 #### M249 (LMG)
 
@@ -206,7 +206,7 @@ The M249 hold 100, 100! rounds and can shred though squads and vehicles like not
 
 Just don't press the reload button before its down to say 20 bullets AND you have hard cover, I can make a cup of coffee faster than this thing reloads.
 
-Bushka, M249: https://www.youtube.com/watch?v=usoYgImEIxA
+Bushka, M249: <https://www.youtube.com/watch?v=usoYgImEIxA
 
 ### 7.62 weapons
 
@@ -220,8 +220,8 @@ In other words, they are hard to use, but if you can learn to control them, they
 
 These are the weapons you need to practice with and adjust your sensitivity for, but once you get good at them, they can give you the upper hand. Most players carry 5.56 AR's but at close to medium range, if you land your shots, you should absolutely beast them with a 7.62 AR (faster time to kill).
 
-Bushka, 7.62 secrets : https://www.youtube.com/watch?v=wNFCLm4XX50
-Bushka, Recoil control :https://www.youtube.com/watch?v=mJa5lW7Ay2Q
+Bushka, 7.62 secrets : <https://www.youtube.com/watch?v=wNFCLm4XX50>
+Bushka, Recoil control : <https://www.youtube.com/watch?v=mJa5lW7Ay2Q>
 
 #### AKM (AR)
 
@@ -233,7 +233,7 @@ It can still be effective at longer range, as ong as you keep it on single shot 
 
 It's also a great weapon in the early game, because it has by far the best iron "sights" (flat), no need for any scopes to aim at people.
 
-Bushka AKM vs M416: https://www.youtube.com/watch?v=7YLTCXqOwQw
+Bushka AKM vs M416: <https://www.youtube.com/watch?v=7YLTCXqOwQw>
 
 #### Kar98 (Sniper)
 
@@ -242,7 +242,7 @@ Bushka AKM vs M416: https://www.youtube.com/watch?v=7YLTCXqOwQw
 The Kar98 is a solid sniper and relatively easy to find compared to the other ones, though still not common enough to practice with one every game.
 I think it's a bit over-hyped because so many streamers use it, but once you get used to it (mostly leading and a bit of drop) it's a fun weapon to use and fairly easy to land head shots with.
 
-Bushka, Kar98 : https://www.youtube.com/watch?v=A947dnDSk9s
+Bushka, Kar98 : <https://www.youtube.com/watch?v=A947dnDSk9s>
 
 #### M762 Beryl (AR)
 
@@ -262,8 +262,8 @@ The only bad thing about this weapon is the default iron sights are horrible, bu
 
 This is also the weapon I do the best with in TDM/arcade modes, even better than the Groza for me.
 
-Bushka, M762 : https://www.youtube.com/watch?v=eRfvMbyKdXs
-https://www.youtube.com/watch?v=eRfvMbyKdXs
+Bushka, M762 : <https://www.youtube.com/watch?v=eRfvMbyKdXs>
+<https://www.youtube.com/watch?v=eRfvMbyKdXs>
 
 #### Mk47 Mutant (AR)
 
@@ -271,7 +271,7 @@ https://www.youtube.com/watch?v=eRfvMbyKdXs
 
 I haven't really used this much, IMO the burst weapons don't really have a place in the game, but in general I rather use either an AR or a single shot DMR, this falls in between and is not great at anything much. Early game before people have armor might be the one use case where it's high damage per burst works.
 
-Bushka, M47 : https://www.youtube.com/watch?v=tAIx08Ao5d4
+Bushka, M47 : <https://www.youtube.com/watch?v=tAIx08Ao5d4>
 
 #### M24 (Sniper)
 
@@ -279,7 +279,7 @@ Bushka, M47 : https://www.youtube.com/watch?v=tAIx08Ao5d4
 
 On paper, this is a slightly stronger Kar98, in practice I seem to do better at landing shots with the Kar98, I'm not sure why that is, most likely it's simply because the M24 is so uncommon that I don't get to practice with it enough.
 
-Bushka: Snipers: https://www.youtube.com/watch?v=kevPu71-M3A
+Bushka: Snipers: <https://www.youtube.com/watch?v=kevPu71-M3A>
 
 ### SLR (DMR)
 
@@ -289,7 +289,7 @@ I hate the SLR, I can't control it, I will land one shot (not enough to get a ki
 
 If the opponent is stationary, I can land multiple shots (controlled tapping), but if they are moving, I juts can't land the shots.
 
-Bushka, SLR : https://www.youtube.com/watch?v=1O1KYcRQ_bw
+Bushka, SLR : <https://www.youtube.com/watch?v=1O1KYcRQ_bw>
 
 #### SKS (DMR)
 
@@ -301,7 +301,7 @@ On the other hand at short/medium range you can spam it and destroy people, like
 
 Note: Fully kitted it can be monster in TDM, .... which feels like such a weird use of a "DMR".
 
-Bushka, SKS : https://www.youtube.com/watch?v=RbUyda1KXuc
+Bushka, SKS : <https://www.youtube.com/watch?v=RbUyda1KXuc>
 
 #### DP28 (LMG)
 
@@ -313,7 +313,7 @@ It's basically like a larger mag AR at medium range, which is why many people ca
 
 On the other hand, don't use it at short range, the rate of fire is way too slow, and the reloading time will get you killed.
 
-Bushka, DP28 : https://www.youtube.com/watch?v=s69RHKJ2STs
+Bushka, DP28 : <https://www.youtube.com/watch?v=s69RHKJ2STs>
 
 ### 5.56 weapons
 
@@ -335,7 +335,7 @@ Almost everyone carry one of these in their loadout, they are basically good at 
 
 On the other hand, I think a lot of people die trying to use them in CQC or against a sniper at long range, neither these are a good idea. But they do great at anything in between (40M - 400M) and a lot of fights are happening at these ranges.
 
-Bushka 5.56 AR's: https://www.youtube.com/watch?v=1gNINM7vZRw
+Bushka 5.56 AR's: <https://www.youtube.com/watch?v=1gNINM7vZRw>
 
 #### M16A4 (AR)
 
@@ -350,7 +350,7 @@ Here are a few things I use it for though,
 - Early game, this weapon is everywhere, before people gets good helmets and armor, the burst (even if only 2 land) can do enough damage to kill people
 - Poor man Mini14. I put this on single shot, and it can be used as slightly weaker Mini14, with it's high bullet velocity and large mag it can be effective at spamming people running around.
 
-Bushka, M16A4 : https://www.youtube.com/watch?v=COabMDKo508
+Bushka, M16A4 : <https://www.youtube.com/watch?v=COabMDKo508>
 
 #### Mini14 (DMR)
 
@@ -366,7 +366,7 @@ I even prefer it to most snipers, say if someone is stationary with a level3 hel
 
 What if they are running ? Even better, with a sniper it's a crapshot at best, with the Mini14, I can spam them up to _30_ times before they take cover, only need to land 4 or 5, and it _does_ work.
 
-Bushka, DMR's : https://www.youtube.com/watch?v=zU56O1Os1z8
+Bushka, DMR's : <https://www.youtube.com/watch?v=zU56O1Os1z8>
 
 #### QBU (DMR)
 
@@ -374,7 +374,7 @@ Bushka, DMR's : https://www.youtube.com/watch?v=zU56O1Os1z8
 
 This is on Sanhok only, but this is basically a stronger Mini14, a.k.a awesomeness. The only drawback is it's smaller mag, but with a base damage of 54, you should not need many.
 
-Bushka, tap firing: https://www.youtube.com/watch?v=oHV_yUt0Vn4
+Bushka, tap firing: <https://www.youtube.com/watch?v=oHV_yUt0Vn4>
 
 ### 9 mm weapons
 
@@ -388,7 +388,7 @@ Because they are meant to spray and have low damage, a common theme is you **abs
 
 When it first came out, I enjoyed it, it's a laser (no recoil) and it's huge mag means you could wipe a (bad) squad without reloading, but the time to kill is actually very poor, so if you try to use it against good players, you wil likely die first.
 
-Bushka, Bizon: https://www.youtube.com/watch?v=kW832AztQ-I
+Bushka, Bizon: <https://www.youtube.com/watch?v=kW832AztQ-I>
 
 #### Vector (SMG)
 
@@ -398,7 +398,7 @@ Without an extended mag, it's a death wish, you better not waste any of your spr
 
 Once you ave the extended mag it's not bad, but because it's useless until then, I rarely pick it up
 
-Bushka, Vector: https://www.youtube.com/watch?v=RNIGkQsyQP8
+Bushka, Vector: <https://www.youtube.com/watch?v=RNIGkQsyQP8>
 
 #### Mp5K (SMG)
 
@@ -406,7 +406,7 @@ It's only on Vikendi, but it's a solid weapon, basically a Uzi with a larger mag
 
 It feels a little slower to kill than the Uzi to me, but according to Bushka's number I'm wrong on that.
 
-Bushka, MP5K : https://www.youtube.com/watch?v=-MKSctkZN1M
+Bushka, MP5K : <https://www.youtube.com/watch?v=-MKSctkZN1M>
 
 #### Uzi (SMG)
 
@@ -416,7 +416,7 @@ Its not as useless as the Vector without an extended mag, but still, you definit
 
 It's weakness is the range, although it's not as bad as you may think either. Because it does not take scopes you at least don't get trapped trying to use it too far, unlike say a s12k or MP5K with a 6x :)
 
-Bushka, best SMGs: https://www.youtube.com/watch?v=cFeCU6t4z3k
+Bushka, best SMGs: <https://www.youtube.com/watch?v=cFeCU6t4z3k>
 
 #### VSS (DMR, supposedly)
 
@@ -438,7 +438,7 @@ So, if you have the extended mag, and you use it at the sweet spot range, where 
 
 But, is this worth carrying over a proper AR/DMR/sniper ? Not really.
 
-Bushka, VSS : https://www.youtube.com/watch?v=N83de71f5bU
+Bushka, VSS : <https://www.youtube.com/watch?v=N83de71f5bU>
 
 ### .45 ACP weapons
 
@@ -450,7 +450,7 @@ The best thing about .45 is that the ammo is everywhere and in large quantity, o
 
 It's not really good at anything, other than it's extremely accurate at short range (no recoil), but it basically as poor range and a long time to kill, so I only use it when it's the only thing I found.
 
-Busha, patch 0.15: https://www.youtube.com/watch?v=WGmwd1VXpos
+Busha, patch 0.15: <https://www.youtube.com/watch?v=WGmwd1VXpos>
 
 #### Tommy Gun (SMG)
 
@@ -461,7 +461,7 @@ It also has a large mag, unlike say a vector or Uzi, so in the early game and in
 
 It's big weakness is that it takes no attachments at all, and the iron sights are pretty bad.
 
-Bushka, best SMGs: https://www.youtube.com/watch?v=cFeCU6t4z3k
+Bushka, best SMGs: <https://www.youtube.com/watch?v=cFeCU6t4z3k>
 
 #### Winchester 94 (Sniper)
 
@@ -472,4 +472,4 @@ Now that it comes with a scope it's a tiny bit more useful, it's also pretty fas
 
 Surprisingly I'm able to land shots with this (medium range), I use it on Miramar, mostly because it's so hard to find any scopes, but the minute I fnd a 3x or better, I drop the winchester and put the scope on anything else instead.
 
-Bushka, win94 : https://www.youtube.com/watch?v=PekelC21PaI
+Bushka, win94 : <https://www.youtube.com/watch?v=PekelC21PaI>
