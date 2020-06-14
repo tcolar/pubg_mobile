@@ -231,5 +231,5 @@ Common hacks:
 
 Yeah, that's a lot of cheats, and that's not even a complete list, even all the streamers are complaining at this point:
 
-- Bushka, Cheating epidemic : https://www.youtube.com/watch?v=pvem7M5qWhs
-- Riggs : https://www.youtube.com/watch?v=sc7I8yGeEKY
+- Bushka, Cheating epidemic : <https://www.youtube.com/watch?v=pvem7M5qWhs>
+- Riggs : <https://www.youtube.com/watch?v=sc7I8yGeEKY>
