@@ -15,8 +15,8 @@ A few commonly used weapons, all tested without grips.
 Findings:
 
 - For any high recoil weapons, use the compensator
-- For low recoil weapons, you should use suppressor (less noise), or the flash hider if you like to snake
-- Stocks and cheek pads are good to use if available
+- For low recoil weapons, you should use suppressor (less noise), or the flash hider if you really like to snake
+- Stocks and cheek pads are good to use when available
 - On shotguns, both duck bill and choke make a huge difference, use them !
 
 ### AKM
@@ -51,9 +51,9 @@ Findings:
 
 ### M416
 
-Tested on M416 without any other attachments, 3 times per grip.
+Tested on the M416 without any other attachments, 3 tries per grip.
 
-Seems to me on an AR the vertical grip or the half grip are good options
+Seems to me that on an AR the vertical grip or the half grip are good options
 
 #### No Grip:
 
@@ -67,28 +67,28 @@ Does not seem to do much recoil wise, but it provides faster ADS.
 
 #### Half grip:
 
-Seems to help **slightly** with both horizontal and vertical recoil, also gives faster recoil recovery, not a bad choice.
+Seems to help **a bit** with both horizontal and vertical recoil, also gives faster recoil recovery, not a bad choice.
 
 ![](grips/m416_half_1.PNG) ![](grips/m416_half_2.PNG) ![](grips/m416_half_3.PNG)
 
 #### Light grip:
 
-Seems to **maybe** help a bit on horizontal recoil, but supposed to be good on snipers
+Seems to **maybe** help a bit on horizontal recoil, but at least on the m416 that seems pretty negligible, supposed to be good on snipers and dmrs though.
 
 ![](grips/m416_light_1.PNG) ![](grips/m416_light_2.PNG) ![](grips/m416_light_3.PNG)
 
 #### Vertical grip:
 
-Does what you would expect, reduces the vertical (only) recoil a bit
+Does what you would expect, reduces the vertical (only) recoil
 
 ![](grips/m416_vert_1.PNG) ![](grips/m416_vert_2.PNG) ![](grips/m416_vert_3.PNG)
 
 #### Angled grip:
 
-This is supposed to reduce recoil, but I'm not really seeing it
+This is supposed to reduce recoil, but I'm not really seeing any benefit.
 
 ![](grips/m416_angled_1.PNG) ![](grips/m416_angled_2.PNG) ![](grips/m416_angled_3.PNG)
 
-### SKS
+### MP5K
 
 todo
