@@ -34,7 +34,9 @@ don't need to unload a whole mag into an opponent, so only the first few bullets
 - It's true for AR's but not SMG's, where you DO need to unload most of the clip
 - For AR's, it's true that you should only 4 bullets if the target is stationary, if they are running, you may need to unload half the clip to land the 4 shots to get the kill, hence I think checking the recoil over the full mag is not completely meaningless.
 
-So wth that said you can decide if you want to observe only the first few bullet holes or more.
+So with that said you can decide if you want to observe only the first few bullet holes or more.
+
+---
 
 ### Hip fire VS ADS while standing, crouching, prone
 
@@ -48,6 +50,8 @@ Observations:
 - Crouching seems to reduce the recoil almost in half, more than I expected !
 - Going Prone seems to reduce recoil to one third of when standing ! Again I didn't expect this much !
 - This as way more effect than any attachments (grips, compensators, stocks, etc...)
+
+---
 
 #### Pistols
 
