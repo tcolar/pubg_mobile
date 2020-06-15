@@ -134,6 +134,8 @@ Yet another technique, is drop shooting, whereas you go prone in the middle of a
 
 In my opinion it's best is to keep standing and moving in semi random patterns.
 
+However this is debatable, see the significant recoil effects of crouching or going prone in the recoil page.
+
 Shooting at center mass : <https://www.youtube.com/watch?v=hh--SvIgxCk>
 
 #### Going for crates or not

@@ -36,6 +36,19 @@ don't need to unload a whole mag into an opponent, so only the first few bullets
 
 So wth that said you can decide if you want to observe only the first few bullet holes or more.
 
+### Hip fire VS ADS while standing, crouching, prone
+
+Tested with a M416 & red dot
+
+![](spray/m416_hip.PNG) ![](spray/m416_standing.PNG) ![](spray/m416_crouching.PNG) ![](spray/m416_prone.PNG)
+
+Observations:
+
+- This is at very short range (~5m) and even this close it's obvious how bad hip firing is VS ADS, whenever you can do it, do ADS (scope in)
+- Crouching seems to reduce the recoil almost in half, more than I expected !
+- Going Prone seems to reduce recoil to one third of when standing ! Again I didn't expect this much !
+- This as way more effect than any attachments (grips, compensators, stocks, etc...)
+
 #### Pistols
 
 - The skorpion does not do a lot of damage, but the spay pattern is a thing of beauty.
@@ -51,22 +64,22 @@ So wth that said you can decide if you want to observe only the first few bullet
 
 #### 5.56 ARs
 
-- I knew something was off with the m16a4, and this is "tapping", but boy, this shoots all over the place !
-- I had noticed the QBZ felt a bit harder to handle, as you can see it has more recoil
+- While all these 5.56 ARs are pretty similar, the G36C has the best spray (eno horizontal recoil), while the QBZ has the most difficult.
+- I knew something was off with the m16a4, sure this is "tapping", but boy, this shoots all over the place !
 
-![](spray/aug.PNG) ![](spray/m16a4.PNG) ![](spray/m416.PNG) ![](spray/qbz.PNG) ![](spray/scar.PNG)
+![](spray/aug.PNG) ![](spray/g36c.PNG) ![](spray/m16a4.PNG) ![](spray/m416.PNG) ![](spray/qbz.PNG) ![](spray/scar.PNG)
 
 #### 7.72 ARs
 
 - As everone knows the AKM and berryl have very high vertical recoil, but as you can see the first 5 bullets are pretty god and that is enough to kill someone
-- The Groza is not any harder to handle than the 5.56 AR, yet does a lot more damage, use it !
+- The Groza is as easy to handle than the 5.56 AR, yet does a lot more damage, use it !
 - As far as burst weapons go, The mutant seems way more accurate than the M16A4
 
 ![](spray/akm.PNG) ![](spray/groza.PNG) ![](spray/m762.PNG) ![](spray/mutant.PNG)
 
 #### LMGs
 
-- The DP28 is not any harder to handle than the 5.56 AR, yet does more damage, use it at range !
+- The DP28 is as easy, if not easier, to handle than the 5.56 AR, yet does more damage, use it at range !
 - The M249 has a crazy pattern, keep in mind it's 50 bullets though, and meant to spray, but that left recoil is wild
 
 ![](spray/m249.PNG) ![](spray/dp28.PNG)
@@ -100,4 +113,4 @@ Observations:
 
 - The SLR, SKS and MK124 have very though single shot recoils (both vertical and horizontal and a lot)
 
-![](singleshot/aug.PNG) ![](singleshot/awm.PNG) ![](singleshot/dp28.PNG) ![](singleshot/kar98.PNG) ![](singleshot/m16a4.PNG) ![](singleshot/m24.PNG) ![](singleshot/m249.PNG) ![](singleshot/m416.PNG) ![](singleshot/m762.PNG) ![](singleshot/mini14.PNG) ![](singleshot/mk14.PNG) ![](singleshot/mutant.PNG) ![](singleshot/qbu.PNG) ![](singleshot/scar.PNG) ![](singleshot/sqs.PNG) ![](singleshot/sks.PNG) ![](singleshot/slr.PNG) ![](singleshot/win94.PNG)
+![](singleshot/akm.PNG) ![](singleshot/aug.PNG) ![](singleshot/awm.PNG) ![](singleshot/dp28.PNG) ![](singleshot/kar98.PNG) ![](singleshot/m16a4.PNG) ![](singleshot/m24.PNG) ![](singleshot/m249.PNG) ![](singleshot/m416.PNG) ![](singleshot/m762.PNG) ![](singleshot/mini14.PNG) ![](singleshot/mk14.PNG) ![](singleshot/mutant.PNG) ![](singleshot/qbu.PNG) ![](singleshot/scar.PNG) ![](singleshot/sqs.PNG) ![](singleshot/sks.PNG) ![](singleshot/slr.PNG) ![](singleshot/win94.PNG)
