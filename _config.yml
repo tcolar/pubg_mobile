@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: Pub Mobile Info
+description: Pub Mobile info, tips and stats
+show_downloads: 'false'
+google_analytics: 'UA-169403660-1'
