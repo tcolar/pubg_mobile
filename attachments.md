@@ -117,6 +117,8 @@ This is supposed to reduce recoil, but I'm not really seeing any benefit.
 
 Tested with an SKS without other attachments, 4 single shots, without trying to controll recoil manually in between.
 
+The Vertical grip or the Thumb grip seem to be the best options
+
 #### No Grip:
 
 ![](grips/sks_none_1.PNG) ![](grips/sks_none_2.PNG) ![](grips/sks_none_3.PNG) ![](grips/sks_none_4.PNG)
@@ -129,7 +131,7 @@ Slightly improved vertical and horizontal recoil
 
 #### Half grip:
 
-Does not seem all that useful with single fire
+Helps a little but not as much as with auto fire, thumb grip seems a bit better
 
 ![](grips/sks_half_1.PNG) ![](grips/sks_half_2.PNG) ![](grips/sks_half_3.PNG) ![](grips/sks_half_4.PNG)
 
