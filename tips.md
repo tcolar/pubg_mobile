@@ -50,4 +50,6 @@ Seriously, these can give you a huge strategic advantage, see the weapons page f
 #### Pre-fire
 
 Pe-firing, is starting to fire before seeing the enemy, for example when entering a door or rounding a corner where you know an opponent is there, It's best done with a weapon with a larger mag, but the idea is that you will put some damage on the enemy before he reacts and starts shooting back at you, giving you an advantage.
-Busha on 0re-firing: <https://m.youtube.com/watch?v=xzatAwFc4TQ>
+
+Busha on pre-firing: <https://m.youtube.com/watch?v=xzatAwFc4TQ>
+
