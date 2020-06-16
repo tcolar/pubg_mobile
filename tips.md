@@ -46,3 +46,7 @@ Click the chat icon, then in the chat popup, click the "clock" (history) icon. C
 #### Use throwables
 
 Seriously, these can give you a huge strategic advantage, see the weapons page for more details.
+
+#### Pre-fire
+
+Pe-firing, is starting to fire before seeing the enemy, for example when entering a door or rounding a corner where you know an opponent is there, It's best done with a weapon with a larger mag, but the idea is that you will put some damage on the enemy before he reacts and starts shooting back at you, giving you an advantage.
