@@ -14,7 +14,8 @@ There is nothing I have messed with more than my controls layout, and this is pr
 - [3 Fingers Claw](#3-fingers-claw)
 - [Gyro](Gyro)
 - [4+ Fingers](#4-fingers)
-- [My current layout](#my-current-layout)
+- [June 2020 layout](#june-2020-layout)
+- [July 2020 update](#july-2020-update)
 
 ### Thumb, 3, 4, x Fingers Claw
 
@@ -74,7 +75,7 @@ There is a lot of thoughts behing every button placement, heres are explanations
 - Lean
 
   I'm still learning to use these more, but it's positioned so I can use my left middle finger on it while firing (5 finger claw), I focused on the right lean to be easier to use because it has advantages in game over the left one (less head showing, etc...)
-These buttons are on the left, because when on the right they tend to interfere with my aiming, the game gets confused because it's possible to aim with the lean button held down, wish that could be disabled as it's an annoyance when using claw.
+  These buttons are on the left, because when on the right they tend to interfere with my aiming, the game gets confused because it's possible to aim with the lean button held down, wish that could be disabled as it's an annoyance when using claw.
 
 - Player list
 
@@ -143,3 +144,13 @@ Go in the training mode and get in a car, make sure no buttons overlay the drivi
 ![](screenshots/driving.PNG)
 
 Bushka, 6 fingers claw : <https://www.youtube.com/watch?v=HA191r_ISHE>
+
+### July 2020 update
+
+Like I said, I keep tweaking my layout, a couple new findings for me:
+
+- Using more than 4 fingers is just uncomfortable for me, with 4 fingers it keeps my wrists vertical, but with more they turn horizontal and it becomes uncomfortable. I'm on a computer all day at work, I don't need more chances to get carpal tunnel from Pubg.
+
+- The new version 0.19.0 of Pub mobile finally allows to turn on or off aiming with the peek & scope buttons, this use to cause all kind of issues with whichever of your aiming, fire, peek or scope button was last pressed becoming the aiming control. It's so much better now. So with this layout my peek buttons are set to aim, but the scope button is NOT.
+
+![](screenshots/layout_07_2020.PNG)
