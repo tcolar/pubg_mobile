@@ -13,6 +13,7 @@ All pages : [Main page](/index.md) \ [Play Style](/play_style.md) \ [Weapons](/w
 - [Play Styles](#play-styles)
 - [Best loadaout](#best-laout)
 - [Getting better](#getting-better)
+- [Strategies](#strategies)
 - [Cheaters and hackers](#cheaters-and-hackers)
 
 ---
@@ -155,6 +156,8 @@ If everyone uses an M416 you will also be fighting over ammo.
 
 So anyway this will focus on the solo layout, were hard decisions have to be made.
 
+Bushka, best layout: <https://www.youtube.com/watch?v=16DLL2h4a8M>
+
 #### Early game
 
 First of all, during the earkly game, the best layout is anything better than your opponents, so do pick up the pans, pistols, shotguns, crossbows, until you can find better.
@@ -211,6 +214,18 @@ Arcade games are a great way to practice.
 - RageGear, a.k.a MadMax
 
   A decent way to practice shooting from moving vehicles
+
+---
+
+### Strategies
+
+There are many strategies to be used, especially in squads, here are a few links for now:
+
+Bushka, flanking : <https://www.youtube.com/watch?v=8rJeru4z7lU>
+Bushka, positioning: <https://www.youtube.com/watch?v=2IIKtPo0OP0>
+Bushka, circle rotation: <https://www.youtube.com/watch?v=nzMYLt47Nto>
+Bushka, control & aggression : <https://www.youtube.com/watch?v=Gk4mpQHXRPI>
+Bushka, tactics & tips: <https://www.youtube.com/watch?v=hxyIBW9BXT8>
 
 ---
 
