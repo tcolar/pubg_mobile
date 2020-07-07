@@ -224,7 +224,7 @@ The M249 hold 100, 100! rounds and can shred though squads and vehicles like not
 
 Just don't press the reload button before its down to say 20 bullets AND you have hard cover, I can make a cup of coffee faster than this thing reloads.
 
-Bushka, M249: <https://www.youtube.com/watch?v=usoYgImEIxA
+Bushka, M249: <https://www.youtube.com/watch?v=usoYgImEIxA>
 
 ---
 
@@ -241,6 +241,7 @@ In other words, they are hard to use, but if you can learn to control them, they
 These are the weapons you need to practice with and adjust your sensitivity for, but once you get good at them, they can give you the upper hand. Most players carry 5.56 AR's but at close to medium range, if you land your shots, you should absolutely beast them with a 7.62 AR (faster time to kill).
 
 Bushka, 7.62 secrets : <https://www.youtube.com/watch?v=wNFCLm4XX50>
+
 Bushka, Recoil control : <https://www.youtube.com/watch?v=mJa5lW7Ay2Q>
 
 #### AKM (AR)
@@ -254,6 +255,7 @@ It can still be effective at longer range, as ong as you keep it on single shot 
 It's also a great weapon in the early game, because it has by far the best iron "sights" (flat), no need for any scopes to aim at people.
 
 Bushka, AKM : <https://www.youtube.com/watch?v=-zbzQrAwe8E>
+
 Bushka AKM vs M416: <https://www.youtube.com/watch?v=7YLTCXqOwQw>
 
 #### Kar98 (Sniper)
@@ -508,8 +510,11 @@ Bushka, win94 : <https://www.youtube.com/watch?v=PekelC21PaI>
 They can save you from bad situations.
 
 Bushka, grenades: https://www.youtube.com/watch?v=M3uAfMLxl_g
+
 Bushka, more grenades: https://www.youtube.com/watch?v=ABjiKAeWkOU
+
 Bushka, grenade tactics: https://www.youtube.com/watch?v=5rFLEpdWwkY
+
 Bushka, smokes: https://www.youtube.com/watch?v=80JeSuVHyS0
 
 Tip: Grenades bounce of objects, so you don't need a clear line of sight, for example you can bounce it of the stairwell from the 1st floor to get it to land on the second floor, without the opponent ever seeing you.

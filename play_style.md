@@ -222,9 +222,13 @@ Arcade games are a great way to practice.
 There are many strategies to be used, especially in squads, here are a few links for now:
 
 Bushka, flanking : <https://www.youtube.com/watch?v=8rJeru4z7lU>
+
 Bushka, positioning: <https://www.youtube.com/watch?v=2IIKtPo0OP0>
+
 Bushka, circle rotation: <https://www.youtube.com/watch?v=nzMYLt47Nto>
+
 Bushka, control & aggression : <https://www.youtube.com/watch?v=Gk4mpQHXRPI>
+
 Bushka, tactics & tips: <https://www.youtube.com/watch?v=hxyIBW9BXT8>
 
 ---
