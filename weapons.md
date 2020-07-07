@@ -93,7 +93,7 @@ The Uzi and MP5k will beat anything in close quarters (other than a shotgun), as
 
 They tend to have very low recoil and so are easy to keep on target, and while they have a shorter effective range it's actually not as bad as you might think.
 
-Bushka, SMGs : https://www.youtube.com/watch?v=8FKhhF_ULjY
+Bushka, SMGs : <https://www.youtube.com/watch?v=8FKhhF_ULjY>
 
 #### LMG
 
