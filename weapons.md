@@ -30,6 +30,8 @@ All pages : [Main page](/index.md) \ [Play Style](/play_style.md) \ [Weapons](/w
 
 Bushka has the best data, I'm not going to copy it here, refer to <https://www.thebushka.com/>
 
+Bushka, Top 10 guns : https://www.youtube.com/watch?v=2mSndqYC9Y4
+
 ### Weapon ranges
 
 Various weapons are effective at various range, there are some exceptions, but roughly:
@@ -71,6 +73,8 @@ Note, that I think it's very difficult to use these if you are a thumb only play
 
 But if you use claw and are good at spam firing, a DMR like the SKS or Mini14 can be devastating and clear a target before they can even react, it's also by far the best weapon to finish off opponents running around at range.
 
+Bushka, DMR's : <https://www.youtube.com/watch?v=M3ZZ2Nai2w0>
+
 #### Assault Rifles
 
 ![](weapons/m416.PNG)
@@ -88,6 +92,8 @@ It's a bit of a mixed bag, but they can excel at CQC, in general you will want t
 The Uzi and MP5k will beat anything in close quarters (other than a shotgun), as long as your spray is mostly on target.
 
 They tend to have very low recoil and so are easy to keep on target, and while they have a shorter effective range it's actually not as bad as you might think.
+
+Bushka, SMGs : https://www.youtube.com/watch?v=8FKhhF_ULjY
 
 #### LMG
 
@@ -122,7 +128,7 @@ I love using the crossbow, and killing someone wth it amazing, yet I never bothe
 
 It's completely silent which can be very neat, I really wish they made it a side arm, I would pick it over pistols and it would be fun to use in the right situation.
 
-Bushka, Crossbow: <https://www.youtube.com/watch?v=XanKPcyJONQ>
+Bushka, Crossbow: <https://www.youtube.com/watch?v=PoKnEF9Rgsg>
 
 - Pistols:
 
@@ -181,6 +187,8 @@ Bushka MK14 : <https://www.youtube.com/watch?v=IWxArl6UxOo>
 
 There is really nothing special about the AUG, it's not really any better than other 5.56 ARs such as an M416, Scar, or G36C, only a sightly higher bullet velocity, definitely not worth fighting over a create for.
 
+Bushka, AUG VS M416 : <https://www.youtube.com/watch?v=zQdGWVzZAd0>
+
 #### AWM (Sniper)
 
 ![](weapons/awm.PNG)
@@ -218,6 +226,8 @@ Just don't press the reload button before its down to say 20 bullets AND you hav
 
 Bushka, M249: <https://www.youtube.com/watch?v=usoYgImEIxA
 
+---
+
 ### 7.62 weapons
 
 The main things to know about 7.62 weapons are:
@@ -243,6 +253,7 @@ It can still be effective at longer range, as ong as you keep it on single shot 
 
 It's also a great weapon in the early game, because it has by far the best iron "sights" (flat), no need for any scopes to aim at people.
 
+Bushka, AKM : <https://www.youtube.com/watch?v=-zbzQrAwe8E>
 Bushka AKM vs M416: <https://www.youtube.com/watch?v=7YLTCXqOwQw>
 
 #### Kar98 (Sniper)
@@ -325,6 +336,8 @@ On the other hand, don't use it at short range, the rate of fire is way too slow
 
 Bushka, DP28 : <https://www.youtube.com/watch?v=s69RHKJ2STs>
 
+---
+
 ### 5.56 weapons
 
 5.56 AR's are currently the safe bet and what most people default to these.
@@ -385,6 +398,8 @@ Bushka, DMR's : <https://www.youtube.com/watch?v=zU56O1Os1z8>
 This is on Sanhok only, but this is basically a stronger Mini14, a.k.a awesomeness. The only drawback is it's smaller mag, but with a base damage of 54, you should not need many.
 
 Bushka, tap firing: <https://www.youtube.com/watch?v=oHV_yUt0Vn4>
+
+---
 
 ### 9 mm weapons
 
@@ -449,6 +464,8 @@ So, if you have the extended mag, and you use it at the sweet spot range, where 
 But, is this worth carrying over a proper AR/DMR/sniper ? Not really.
 
 Bushka, VSS : <https://www.youtube.com/watch?v=N83de71f5bU>
+
+---
 
 ### .45 ACP weapons
 
