@@ -285,7 +285,8 @@ The only bad thing about this weapon is the default iron sights are horrible, bu
 
 This is also the weapon I do the best with in TDM/arcade modes, even better than the Groza for me.
 
-Bushka, M762 : <https://www.youtube.com/watch?v=eRfvMbyKdXs>
+Bushka, M762 videos : <https://www.youtube.com/watch?v=e0VfkWNlOnc>
+<https://www.youtube.com/watch?v=eRfvMbyKdXs>
 <https://www.youtube.com/watch?v=eRfvMbyKdXs>
 
 #### Mk47 Mutant (AR)
@@ -360,6 +361,7 @@ Almost everyone carry one of these in their loadout, they are basically good at 
 
 On the other hand, I think a lot of people die trying to use them in CQC or against a sniper at long range, neither these are a good idea. But they do great at anything in between (40M - 400M) and a lot of fights are happening at these ranges.
 
+Bushka M762 & ScarL : <https://www.youtube.com/watch?v=e0VfkWNlOnc>
 Bushka 5.56 AR's: <https://www.youtube.com/watch?v=1gNINM7vZRw>
 
 #### M16A4 (AR)
